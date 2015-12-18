@@ -1,0 +1,6 @@
+"AddonInfo"
+{
+	"name" "S.C.U.F. HUD"
+	"author_name" "Fearless Captain"
+	"info" "Buy more of my scripts on ScriptFodder."
+}
